@@ -1,0 +1,9 @@
+com\isepdiamniodio\tp\resources\LocalitesResource.class
+com\isepdiamniadio\tp\facades\LocaliteFacade.class
+com\isepdiamniodio\tp\resources\JavaEE8Resource.class
+com\isepdiamniodio\tp\JAXRSConfiguration.class
+com\isepdiamniadio\tp\facades\AbstractFacade.class
+com\isepdiamniadio\tp\entities\Meteo.class
+com\isepdiamniadio\tp\entities\Localite.class
+com\isepdiamniodio\tp\resources\MeteosResource.class
+com\isepdiamniadio\tp\facades\MeteoFacade.class
